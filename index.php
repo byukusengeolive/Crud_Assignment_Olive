@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>CRUD Main Page</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="mycss.css" type="text/css" href="mycss.css">
 </head>
 <body>
     <h2>Student Management</h2>
